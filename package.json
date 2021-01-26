@@ -1,0 +1,11 @@
+{
+  "name": "clean_architecture_base_prject",
+  "version": "1.0.0",
+  "description": "This is a base project to Prospera NodeJs services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Garzon",
+  "license": "ISC"
+}
